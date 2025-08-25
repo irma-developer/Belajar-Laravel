@@ -20,6 +20,10 @@
             <textarea name="alamat" class="form-control"></textarea>
         </div>
 
+        <div class="form-group">
+            <label>Nilai:</label>
+            <input type="number" step="0.01" name="nilai" class="form-control" placeholder="Masukkan nilai siswa">
+        </div>
         <button type="submit" class="btn btn-primary">Simpan</button>
     </form>
 @endsection

@@ -15,10 +15,16 @@
             <h1 class="display-4 text-primary">Selamat Datang di Sistem Penilaian Siswa</h1>
             <p class="lead">Aplikasi ini dirancang untuk mengelola data penilaian siswa secara efektif.</p>
             <hr class="my-4">
-            <p class="mb-3">Klik tombol di bawah untuk melihat data siswa atau tentang aplikasi ini.</p>
+            <p class="mb-3">Klik tombol di bawah untuk melihat informasi lebih lanjut.</p>
             <a href="/siswa" class="btn btn-success btn-lg">Lihat Data Siswa</a>
+            <a href="/guru" class="btn btn-success btn-lg">Lihat Data Guru</a>
             <a href="/about" class="btn btn-info btn-lg">Tentang Kami</a>
             <a href="/contact" class="btn btn-info btn-lg">Kontak Kami</a>
+        </div>
+
+        <!-- Tombol login ditambahkan di bawahnya -->
+        <div class="text-center mt-4">
+            <a href="/login" class="btn btn-primary btn-lg rounded">Login</a>
         </div>
     </div>
 

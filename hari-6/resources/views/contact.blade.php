@@ -1,11 +1,13 @@
 <!DOCTYPE html>
 <html lang="id">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Contact Us</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
 </head>
+
 <body class="bg-light">
 
     <div class="container mt-5">
@@ -15,7 +17,8 @@
             </div>
             <div class="card-body">
                 <h5 class="card-title">Hubungi Kami</h5>
-                <p class="card-text">Jika Anda memiliki pertanyaan atau masukan mengenai aplikasi ini, Anda dapat menghubungi kami melalui formulir di bawah.</p>
+                <p class="card-text">Jika Anda memiliki pertanyaan atau masukan mengenai aplikasi ini, Anda dapat
+                    menghubungi kami melalui formulir di bawah.</p>
 
                 <!-- Formulir Kontak -->
                 <form action="#" method="POST">
@@ -40,9 +43,10 @@
     </div>
 
     <footer class="text-center text-muted mt-5">
-        <p>© 2025 Sistem Penilaian Siswa</p>
+        <p>Copyright © Irma 2025</p>
     </footer>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 </body>
+
 </html>
